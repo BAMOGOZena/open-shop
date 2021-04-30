@@ -21,6 +21,6 @@ class ProduitSeeder extends Seeder
             "quantite" =>50
 
         ]);*/
-        Produit::factory(500)->create();
+       // Produit::factory(500)->create();
     }
 }
